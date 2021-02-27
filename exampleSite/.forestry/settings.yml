@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: C:\hugo
+admin_path: C:\hugo\themes\hargo\
 webhook_url: 
 sections:
 - type: directory
