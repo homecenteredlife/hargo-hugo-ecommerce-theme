@@ -10,7 +10,7 @@ sections:
   path: exampleSite/content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: exampleSite/content/terms-conditions
   label: Terms conditions
