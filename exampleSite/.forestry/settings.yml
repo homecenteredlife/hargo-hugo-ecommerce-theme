@@ -7,13 +7,13 @@ sections:
 - type: heading
   label: Headings
 - type: directory
-  path: exampleSite/content
-  label: Pages
+  path: exampleSite/content/terms-conditions
+  label: Terms conditions
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/terms-conditions
-  label: Terms conditions
+  path: exampleSite/content
+  label: Pages
   create: all
   match: "**/*"
 - type: directory
