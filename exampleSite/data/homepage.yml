@@ -12,7 +12,7 @@ banner:
   # demo video
   video:
     enable : true
-    videoURL : "https://www.youtube.com/watch?v=uZTPllNTiBs"
+    videoURL : "https://www.youtube.com/embed/uZTPllNTiBs"
 
 ########################## About ##############################
 about:
