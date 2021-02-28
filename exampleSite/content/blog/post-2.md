@@ -1,9 +1,9 @@
 ---
 title: How to Use a Tactical Rifle Sling
-date: 2019-10-17T11:22:16.000+06:00
+date: 2021-03-01T06:22:16+00:00
 description: this is a meta description
 image: images/blog/post-2.jpg
-author: John Doe
+author: Brian Carrington
 
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
