@@ -1,11 +1,10 @@
 ---
 title: Tactical Rifle Sling
-date: 2019-10-17T11:22:16.000+06:00
-description: For Glowing Skin
-price: '20.00'
-priceBefore: '25.00'
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut
+date: 2021-03-01T06:22:16+00:00
+description: Single-Point Sling
+price: "19.95"
+priceBefore: "34.95"
+shortDescription: High quality tactical sling for AR15 style rifles
 productID: "8"
 images:
 - image: images/products/product-3.png
