@@ -18,5 +18,5 @@ contact:
     #  - dayTime : "Friday: 8:00 – 5:00"
 
 ####################### google map ########################
-# map:
+map:
   enable: false
