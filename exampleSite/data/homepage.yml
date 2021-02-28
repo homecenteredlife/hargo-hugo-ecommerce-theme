@@ -26,7 +26,7 @@ about:
 cta:
   enable : true
   title : "You are the first line of defence for your family, your home, and your personal safety."
-  content : "Grab one while you still can!"
+  content : "Get prepared while you still can!"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
