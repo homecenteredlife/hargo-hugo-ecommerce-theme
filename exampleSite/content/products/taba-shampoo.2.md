@@ -7,6 +7,7 @@ priceBefore: "34.95"
 shortDescription: High quality tactical sling for AR15 style rifles
 productID: "8"
 images:
+- image: "/images/close-up-sp-sling.jpg"
 - image: "/images/quick-release-points.jpg"
 - image: "/images/single-point-sling.jpg"
 - image: images/products/product-3.png
