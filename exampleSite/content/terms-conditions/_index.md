@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-date: 2019-10-17T05:22:16+00:00
+date: 2021-03-01T06:22:16+00:00
 description: this is a meta description
 menu:
   footer:
