@@ -8,15 +8,15 @@ contact:
     # other information comes from "config.toml"
 
   # opennig hour
-  opennigHour:
-    title : "Opening Hours"
-    dayTimeList: 
-      - dayTime : "Monday: 9:00 – 5:00"
-      - dayTime : "Tuesday: 9:00 – 5:00"
-      - dayTime : "Wednesday: 9:00 – 5:00"
-      - dayTime : "Thursday: 9:00 – 5:00"
-      - dayTime : "Friday: 9:00 – 5:00"
+ # opennigHour:
+  #  title : "Business Hours"
+   # dayTimeList: 
+    #  - dayTime : "Monday: 8:00 – 5:00"
+     # - dayTime : "Tuesday: 8:00 – 5:00"
+  #    - dayTime : "Wednesday: 8:00 – 5:00"
+   #   - dayTime : "Thursday: 8:00 – 5:00"
+    #  - dayTime : "Friday: 8:00 – 5:00"
 
 ####################### google map ########################
-map:
-  enable: true
+# map:
+  enable: false
