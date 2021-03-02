@@ -15,14 +15,14 @@ copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) 
 currencySymbol = "$"
 description = "This is meta description"
 email = "demo@email.com"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+#gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 googleAnalitycsID = ""
 home = "Home"
 location = "Centerville, Utah, USA"
 logo = "images/logo.png"
-mapLatitude = "40.934733"
-mapLongitude = "-111.885935"
-mapMarker = "images/marker.png"
+#mapLatitude = "40.934733"
+#mapLongitude = "-111.885935"
+#mapMarker = "images/marker.png"
 mobile = "1-385-253-9855"
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 [params.contact]
@@ -39,8 +39,8 @@ link = "plugins/jQuery/jquery.min.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
+#[[params.plugins.js]]
+#link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
 preloader = ""
