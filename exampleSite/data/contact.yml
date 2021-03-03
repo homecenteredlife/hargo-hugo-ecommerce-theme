@@ -4,7 +4,7 @@ contact:
   # office
   office:
     title : "Central Office"
-    content : "Our home office is open during normal business hours during the week and closed on weekends so our employees can spend time with family." 
+    content : "Our office is closed on weekends so our employees can spend time with families." 
     # other information comes from "config.toml"
 
   # opennig hour
