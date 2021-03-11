@@ -4,7 +4,7 @@ languageCode = "en"
 paginate = 10
 summaryLength = "20"
 theme = "hargo"
-title = "Hargo | Hugo Ecommerce Site"
+title = "HHDefenders"
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
