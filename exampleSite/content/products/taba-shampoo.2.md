@@ -9,7 +9,7 @@ productID: "8"
 images:
 
 - image: "/images/product-3.png"
-- image: "/images/product-2.png"
+- image: "/images/product-2.jpg"
 - image: "/images/product-6.png"
 - image: "/images/product-4.png"
 
