@@ -42,22 +42,22 @@ material:
   materialItem:
     # material item loop
     - title : "Matcha Seeds"
-      image : "images/material/material-1.png"
+      image : "images/material-1.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
     - title : "Aloe Vera"
-      image : "images/material/material-2.png"
+      image : "images/material-2.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
     - title : "Turmeric"
-      image : "images/material/material-3.png"
+      image : "images/material-3.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
     - title : "Tulshi leaf"
-      image : "images/material/material-4.png"
+      image : "images/material-4.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
 
 ########################### Advantage #########################
