@@ -6,7 +6,7 @@ price: '20.00'
 priceBefore: '25.00'
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut
-productID: "9"
+productID: "1"
 images:
 - image: "/images/product-6.png"
 - image: "/images/product-2.jpg"
