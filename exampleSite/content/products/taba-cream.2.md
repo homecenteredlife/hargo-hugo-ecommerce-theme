@@ -1,17 +1,14 @@
 ---
-title: Taba Cream
+title: Single Point Tactical Rifle Sling
 date: 2019-10-17T11:22:16.000+06:00
-description: For Glowing Skin
-price: '20.00'
+description: Single-Point Rifle Sling
+price: "19.95"
 priceBefore: '25.00'
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut
 productID: "2"
 images:
-- image: images/products/product-3.png
-- image: images/products/product-2.png
-- image: images/products/product-1.png
-- image: images/products/product-4.png
+- image: "/images/product-1.png"
 draft: true
 
 ---
