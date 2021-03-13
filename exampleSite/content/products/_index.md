@@ -1,7 +1,8 @@
 ---
 title: Products
-date: 2019-10-17T11:22:16.000+06:00
-description: this is a meta description
+date: 2021-03-10T07:00:00+00:00
+description: Hunting, Camping, Hiking, and Home Defense, and Emergency Preparedness
+  Products
 menu:
   main:
     URL: products
