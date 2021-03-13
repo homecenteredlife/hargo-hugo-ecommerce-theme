@@ -25,65 +25,62 @@ about:
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "You are the first line of defence for your family, your home, and your personal safety."
-  content : "Get prepared while you still can!"
+  title : "You are the first line of defence for your home and family."
+  content : "Get prepared while you can!"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "All Products"
     link : "products"
-
+s
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  title : "Our Products"
+  subtitle : "Camping, Hiking, Hunting, and Home Defense."
   materialItem:
     # material item loop
-    - title : "Matcha Seeds"
+    - title : "Camping for the Family"
       image : "images/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "America's most popular family vacations includes camping, hiking, climbing, and the great outdoors."
       
     # material item loop
-    - title : "Aloe Vera"
+    - title : "Hunting"
       image : "images/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Hunting helps develop survival skills and put food on the table."
       
     # material item loop
-    - title : "Turmeric"
+    - title : "Shooting at the Range"
       image : "images/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Target practice or compete with rifles or pistols in the safety of a professional shooting range."
       
     # material item loop
-    - title : "Tulshi leaf"
+    - title : "Home Defense"
       image : "images/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-
+      content : "The shotgun has long been the favorite home defense weapon. Even a novice can be loud and scary with a shotgun."
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  title : "Advantages Of Using <br> Our Products"
+  subtitle : "Protect your family with quality long lasting products."
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Strong and durable"
+    - listItem : "High quality clips and hardware"
+    - listItem : "Wide straps for comfort"
+    - listItem : "Multiple colors for individual choice"
+    - listItem : "Lightwieght and strong"
+    - listItem : "Be prepared for emergency situations"
 
 
 ######################## Promo Video ##########################
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  content : "See how a Navy Seal uses his rifle sling."
   videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  videoURL : "https://www.youtube.com/embed/uZTPllNTiBs"
 
 
 ######################## Products #############################
