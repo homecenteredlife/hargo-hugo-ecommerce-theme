@@ -10,7 +10,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
 productID: "7"
 images:
 - image: "/images/product-5.png"
-- image: ''
+- image: "/images/product-6.png"
 
 ---
 Range sling backpack with a concealed-carry holster 
