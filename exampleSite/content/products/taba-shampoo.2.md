@@ -1,5 +1,5 @@
 ---
-title: Tactical Rifle Sling
+title: Tactical Rifle Sling - Single Point
 date: 2021-03-01T06:22:16.000+00:00
 description: Single-Point Sling
 price: "19.95"
@@ -7,11 +7,9 @@ priceBefore: "34.95"
 shortDescription: High quality tactical sling for AR15 style rifles
 productID: "8"
 images:
-
-- image: "/images/product-3.png"
-- image: "/images/product-2.jpg"
-- image: "/images/product-6.png"
-- image: "/images/product-4.png"
+- image: "/images/product-2a.png"
+- image: ''
+- image: ''
 
 ---
 Tactical Rifle Sling 
