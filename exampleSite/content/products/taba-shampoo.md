@@ -9,7 +9,6 @@ shortDescription: Tactical sling at its best.  Quickly adjust length, secures ti
   to your back, relases
 productID: "1"
 images:
-- image: "/images/product-3.png"
 - image: "/images/product-4.png"
 
 ---
