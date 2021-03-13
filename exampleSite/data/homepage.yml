@@ -41,22 +41,22 @@ material:
   materialItem:
     # material item loop
     - title : "Camping for the Family"
-      image : "images/material-1.png"
+      image : "/images/camping.jpg"
       content : "America's most popular family vacations includes camping, hiking, climbing, and the great outdoors."
       
     # material item loop
     - title : "Hunting"
-      image : "images/material-2.png"
+      image : "/images/hunting.jpg"
       content : "Hunting helps develop survival skills and put food on the table."
       
     # material item loop
     - title : "Shooting at the Range"
-      image : "images/material-3.png"
+      image : "/images/annie-spratt-6qznv9_ik6k-unsplash.jpg"
       content : "Target-practice or compete with rifles or pistols in the safety of a professional shooting range."
       
     # material item loop
     - title : "Home Defense"
-      image : "images/material-4.png"
+      image : "/images/homedefense.jpg"
       content : "The shotgun has long been the favorite home defense weapon. Even a novice can be loud and scary with a shotgun."
 ########################### Advantage #########################
 advantage:
