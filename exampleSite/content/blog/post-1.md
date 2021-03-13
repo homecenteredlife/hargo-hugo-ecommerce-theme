@@ -1,12 +1,11 @@
 ---
-title: "Lower Back Pain? Self-Administered Acupressure Could Help"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-description : "this is a meta description"
-image: "images/blog/post-1.jpg"
-author: "John Doe"
----
+title: How to use your Tactical One-shoulder Range-Bag
+date: 2021-03-11T06:22:16+00:00
+description: this is a meta description
+image: "/images/product-5.png"
+author: Jonathan Kent
 
+---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
 
 aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
