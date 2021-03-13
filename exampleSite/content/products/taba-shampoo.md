@@ -1,6 +1,6 @@
 ---
 title: Two-point Single-point Tactical Rifle Sling (Two in One)
-date: 2021-03-13T06:22:16+00:00
+date: 2021-03-12T06:22:16+00:00
 description: Maximum Flexibility, quick adjust, quick release, quick switch from 2
   to 1 point sling
 price: "34.95"
@@ -11,7 +11,6 @@ productID: "1"
 images:
 - image: "/images/product-3.png"
 - image: "/images/product-4.png"
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
