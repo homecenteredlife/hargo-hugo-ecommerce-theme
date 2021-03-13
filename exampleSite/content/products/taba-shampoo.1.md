@@ -11,6 +11,7 @@ productID: "7"
 images:
 - image: "/images/product-5.png"
 - image: "/images/product-6.png"
+draft: true
 
 ---
 Range sling backpack with a concealed-carry holster 
