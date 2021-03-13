@@ -1,6 +1,6 @@
 ---
 title: Tactical Rifle Sling - Single Point
-date: 2021-03-01T06:22:16.000+00:00
+date: 2021-03-11T06:22:16+00:00
 description: Single-Point Sling
 price: "19.95"
 priceBefore: "34.95"
