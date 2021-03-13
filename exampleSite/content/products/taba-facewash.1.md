@@ -4,8 +4,8 @@ date: 2021-03-14T06:22:16+00:00
 description: Shooting range bag
 price: '40.00'
 priceBefore: '49.00'
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut
+shortDescription: Over-the-shoulder tactical sling-bag designed for the shooting range.  Concealed
+  carry pocket perfect to carry pistols of almost all sizes.
 productID: "4"
 images:
 - image: "/images/product-5.png"
