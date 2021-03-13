@@ -9,7 +9,7 @@ productID: "8"
 images:
 - image: "/images/product-2a.png"
 - image: "/images/product-2.jpg"
-- image: ''
+- image: "/images/product-1.png"
 
 ---
 Tactical Rifle Sling 
