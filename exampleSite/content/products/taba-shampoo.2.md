@@ -8,7 +8,7 @@ shortDescription: High quality tactical sling for AR15 style rifles
 productID: "8"
 images:
 - image: "/images/product-2a.png"
-- image: ''
+- image: "/images/product-2.jpg"
 - image: ''
 
 ---
