@@ -1,7 +1,7 @@
 ---
 title: Over the Shoulder, Shooting-Range Bag
 date: 2021-03-14T06:22:16+00:00
-description: Shooting range bag
+description: Shooting range, sling-bag
 price: '40.00'
 priceBefore: '49.00'
 shortDescription: Over-the-shoulder tactical sling-bag designed for the shooting range.  Concealed
