@@ -10,5 +10,6 @@ menu:
   footer:
     URL: products
     weight: 1
+draft: true
 
 ---
