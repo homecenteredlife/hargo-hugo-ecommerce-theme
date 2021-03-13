@@ -1,8 +1,8 @@
 ---
 title: How to Use a Tactical Rifle Sling
-date: 2021-03-01T06:22:16+00:00
-description: this is a meta description
-image: images/blog/post-2.jpg
+date: 2021-03-01T06:22:16.000+00:00
+description: There are many ways to use a rifle sling
+image: "/images/product-3.png"
 author: Brian Carrington
 
 ---
