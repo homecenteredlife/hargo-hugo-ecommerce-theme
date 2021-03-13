@@ -32,7 +32,7 @@ cta:
   button:
     label : "All Products"
     link : "products"
-s
+
 ######################## raw material #######################
 material:
   enable : true
@@ -52,7 +52,7 @@ material:
     # material item loop
     - title : "Shooting at the Range"
       image : "images/material-3.png"
-      content : "Target practice or compete with rifles or pistols in the safety of a professional shooting range."
+      content : "Target-practice or compete with rifles or pistols in the safety of a professional shooting range."
       
     # material item loop
     - title : "Home Defense"
