@@ -12,7 +12,7 @@ images:
 - image: images/products/product-6.png
 
 ---
-Over the shoulder, Sling-bag, Shooting Range Bag is great for keeping all of ammunition, magazines, googles, ear protection, cleaning rags, and gun cleaning in one place.  Take it to the range with you and have everything in one place.  
+Over the shoulder, Sling-bag, Shooting Range Bag is great for keeping all of ammunition, magazines, goggles, ear protection, cleaning rags, and gun cleaning in one place.  Take it to the range with you and have everything in one place.  
 
 Sling it over your shoulder and your hands are free to carry your rifle safely.
 
