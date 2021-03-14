@@ -1,5 +1,5 @@
 ---
-title: Two-point Single-point Tactical Rifle Sling (Two-in-One) CAMO
+title: Two-point Single-point Tactical Rifle Sling BLACK (Two-in-One SLING)
 date: 2021-03-12T06:22:16.000+00:00
 description: Maximum Flexibility, quick adjust, quick release, quick switch from 2
   to 1 point sling
