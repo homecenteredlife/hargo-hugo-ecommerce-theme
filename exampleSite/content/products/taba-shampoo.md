@@ -1,6 +1,6 @@
 ---
-title: Two-point Single-point Tactical Rifle Sling (Two in One)
-date: 2021-03-12T06:22:16+00:00
+title: Two-point Single-point Tactical Rifle Sling (Two in One) CAMO
+date: 2021-03-12T06:22:16.000+00:00
 description: Maximum Flexibility, quick adjust, quick release, quick switch from 2
   to 1 point sling
 price: "34.95"
@@ -12,8 +12,26 @@ images:
 - image: "/images/product-4.png"
 
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+1- and 2-Point Rifle Sling, 2 in 1 Tactical Gear for AR-15 Style, Fast Adjust, Quick Release - Hunting Rifle Sling 34"-57"
 
-takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+________________________________________
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpa
+•	FITS ANY TACTICAL RIFLE – Two quick-release metal clips, push-button lock secures sling to Mlok or rail mount swivels and sling adapters.
+
+•	SINGLE-LOOP EASY LENGTH ADJUSTER – One hand quick-adjust the sling length with a simple pull of the strap to tighten or loosen to the perfect position.
+
+•	2 SLINGS IN 1 – works as a 2-point sling and a 1-point sling
+
+•	SUPER ADJUSTABLE 34 TO 57 INCHES - The most adjustable 2 point sling you'll find adjusts from 34"- 57". If your short or tall, this sling will fit. We made the super-strong nylon 1.15 inches wide to ensure fit on all sling swivels.
+
+•	BEST VALUE - Fast adjuster, comfortable 1.5-inch wide strap, 2 quick-lock/quick-release clips; switch back and forth from 2-point to 1-point tactical sling configuration quickly.
+
+Product description
+
+Are you looking for maximum tactical flexibility with your sling?
+
+Our sling will fit any tactical rifle or shotgun you own and any sling connections
+
+Competitive shooters like the 2-point configuration to stabilize their aim and help control recoil. Or quickly switch to a 1-point sling configuration to easily shift from right to left shoulder use or quickly drop your rifle to access your left or right pistol.  
+
+The one-handed easy-adjust loop allows you to quickly cinch your rifle secured to your back and free up both hands or loosen the sling for rapid presentation or wrap around your arm to stabilize your aim.
