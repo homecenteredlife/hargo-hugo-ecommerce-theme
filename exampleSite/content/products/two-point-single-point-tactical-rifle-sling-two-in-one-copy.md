@@ -5,7 +5,7 @@ price = "34.95"
 priceBefore = "40.00"
 productID = "1"
 shortDescription = "Tactical sling at its best.  Quickly adjust length, secures tight to your back, relases"
-title = "Two-point Single-point Tactical Rifle Sling (Two in One) BLACK"
+title = "Two-point Single-point Tactical Rifle Sling (Two-in-One) BLACK"
 [[images]]
 image = "/images/product-3.png"
 
