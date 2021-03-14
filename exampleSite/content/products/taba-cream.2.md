@@ -11,8 +11,30 @@ images:
 - image: "/images/product-1.png"
 
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+1- Point Rifle Sling, Tactical Gear for AR-15 Style Rifle Accessories, Quick Release – Hunting or Shotgun Rifle Slings
 
-takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+________________________________________
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+•	FITS ANY TACTICAL RIFLE – one HK hook metal clips secures sling to Mlok or rail mount or QD and sling adapters.
+
+•	3 QUICK-RELEASE CLIPS – One hand quick-release, a simple snap with two fingers, and you can connect or remove the sling from the rifle, snap one of the other two clips to remove the sling from your body without removing other tactical gear, coats, or packs.
+
+•	COMFORTABLE BUNGIE – works to cushion the swing of the rifle and ensure flexible deploy-range when raising the rifle to aim and shoot.
+
+•	SUPER ADJUSTABLE --Up to 65 INCHES - If your short or tall, this sling will fit. We made the super-strong nylon 1.15 inches wide to ensure fit on all sling swivels.
+
+•	BEST VALUE - You get our sling with fast aim and fire, comfortable 1.15-inch wide strap, 3 quick-release clips.
+
+Product description
+
+Are you looking for maximum tactical flexibility with your sling?
+
+Our sling will fit any tactical rifle or shotgun on any sling or swivel mount
+
+Tactical shooters like the 1-point sling configuration to quickly raise the rifle to presentation position and to easily shift from right to left shoulder or quickly drop the rifle to access left or right pistol. 
+
+Shift shoulders to look and shoot around left or right corners.
+
+The one-handed (right or left) easy-release clips allow you to quickly disengage the rifle to switch weapons without removing a helmet, hat, gloves, or other tactical gear.
+
+Easily adjust to the proper size. Very sturdy and lightweight sling, constructed with superior quality Nylon material, durable and comfortable.
