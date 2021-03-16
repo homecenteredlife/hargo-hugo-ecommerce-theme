@@ -9,7 +9,7 @@ shortDescription: Over-the-shoulder tactical sling-bag designed for the shooting
 productID: "4"
 images:
 - image: "/images/product-5.png"
-- image: images/products/product-6.png
+- image: images/product-6.png
 
 ---
 Over the shoulder, Sling-bag, Shooting Range Bag is great for keeping all of ammunition, magazines, goggles, ear protection, cleaning rags, and gun cleaning in one place.  Take it to the range with you and have everything in one place.  
