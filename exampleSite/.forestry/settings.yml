@@ -5,32 +5,32 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: content
+  path: exampleSite/content
   label: Pages
   create: all
   match: "*"
 - type: directory
-  path: content/terms-conditions
+  path: exampleSite/content/terms-conditions
   label: Terms conditions
   create: all
   match: "**/*"
 - type: directory
-  path: content/products
+  path: exampleSite/content/products
   label: Products
   create: all
   match: "**/*"
 - type: directory
-  path: content/faq
+  path: exampleSite/content/faq
   label: Faq
   create: all
   match: "**/*"
 - type: directory
-  path: content/contact
+  path: exampleSite/content/contact
   label: Contact
   create: all
   match: "**/*"
 - type: directory
-  path: content/blog
+  path: exampleSite/content/blog
   label: Blog
   create: all
   match: "**/*"
