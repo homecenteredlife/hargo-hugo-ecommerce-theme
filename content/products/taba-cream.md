@@ -1,6 +1,6 @@
 ---
 title: Taba Cream
-date: 2019-10-17T11:22:16.000+06:00
+date: 2021-06-02T05:22:16+00:00
 description: For Glowing Skin
 price: '20.00'
 priceBefore: ''
