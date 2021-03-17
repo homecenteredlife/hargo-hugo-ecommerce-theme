@@ -34,6 +34,11 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+- type: directory
+  path: data
+  label: Home Page
+  create: all
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
