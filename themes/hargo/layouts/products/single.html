@@ -34,7 +34,7 @@
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
           Add to cart
         </button>
-        <button class="snipcart-add-item btn btn-primary" onclick="location.href='{{ .Params.amazonLink}}'">
+        <button class="snipcart-add-item btn btn-primary" onclick="window.open('{{ .Params.amazonLink }}','_blank')">
           By On Amazon
         </button>
         
