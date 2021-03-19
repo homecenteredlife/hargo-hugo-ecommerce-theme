@@ -34,6 +34,11 @@
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
           Add to cart
         </button>
+        <button class="snipcart-add-item btn btn-primary" onclick="location.href='{{ .Params.amazonLink}}'">
+          By On Amazon
+        </button>
+        
+      </div>
       </div>
       <div class="col-12 mt-5">
         <ul class="nav nav-tabs border-bottom-0" id="myTab" role="tablist">

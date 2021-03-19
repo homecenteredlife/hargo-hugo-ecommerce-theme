@@ -10,7 +10,7 @@ productID: "4"
 images:
 - image: "/images/product-5.png"
 - image: images/product-6.png
-
+amazonLink: "https://www.amazon.com/Franklin-Sports-Junior-Equipment-Bag/dp/B0069JD8B4/ref=sr_1_4?crid=QXOYJQWXYY8G&dchild=1&keywords=baseball+bag&qid=1615866184&sprefix=Baseball%2Caps%2C216&sr=8-4"
 ---
 Over the shoulder, Sling-bag, Shooting Range Bag is great for keeping all of ammunition, magazines, goggles, ear protection, cleaning rags, and gun cleaning in one place.  Take it to the range with you and have everything in one place.  
 

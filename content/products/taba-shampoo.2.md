@@ -10,7 +10,7 @@ images:
 - image: "/images/product-2a.png"
 - image: "/images/product-2.jpg"
 - image: "/images/product-1.png"
-
+amazonLink: "https://www.amazon.com/Franklin-Sports-Junior-Equipment-Bag/dp/B0069JD8B4/ref=sr_1_4?crid=QXOYJQWXYY8G&dchild=1&keywords=baseball+bag&qid=1615866184&sprefix=Baseball%2Caps%2C216&sr=8-4"
 ---
 1- Point Rifle Sling, Tactical Gear for AR-15 Style Rifle Accessories, Quick Release – Hunting or Shotgun Rifle Slings
 
