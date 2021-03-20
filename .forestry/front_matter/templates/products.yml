@@ -33,3 +33,5 @@ fields:
 - type: textarea
   name: amazonLink
   label: amazonLink
+pages:
+- content/products/two-point-single-point-tactical-rifle-sling-two-in-one-copy.md
