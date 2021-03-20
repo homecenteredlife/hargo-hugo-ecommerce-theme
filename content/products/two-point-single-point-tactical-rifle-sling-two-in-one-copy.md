@@ -1,5 +1,5 @@
 +++
-amazonLink = "https://google.com"
+amazonLink = "https://he defenders.com/products"
 date = 2021-03-12T06:22:16Z
 description = "Maximum Flexibility, quick adjust, quick release, quick switch from 2 to 1 point sling"
 price = "34.95"
